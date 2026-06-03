@@ -1,0 +1,28 @@
+kpi,config,rmse_mean,rmse_std
+revenue_growth,All Features (20),0.3929,0.0509
+revenue_growth,Selected (1),0.509,0.0394
+revenue_growth,Final (5),0.4258,0.0276
+gross_margin,All Features (20),0.0308,0.031
+gross_margin,Selected (1),0.0247,0.0285
+gross_margin,Final (5),0.0276,0.0288
+operating_profit,All Features (20),1312.1044,431.2165
+operating_profit,Selected (1),2195.4061,459.1088
+operating_profit,Final (5),1389.8307,498.4044
+market_share,All Features (20),0.0508,0.0206
+market_share,Selected (1),0.0889,0.0127
+market_share,Final (5),0.0687,0.0204
+rpi,All Features (20),0.085,0.027
+rpi,Selected (1),0.1375,0.0161
+rpi,Final (5),0.0802,0.0298
+service_level,All Features (20),0.0457,0.0317
+service_level,Selected (1),0.2109,0.0393
+service_level,Final (5),0.1185,0.0224
+price_elasticity,All Features (20),12.6141,6.2341
+price_elasticity,Selected (1),12.012,4.6096
+price_elasticity,Final (5),11.167,4.8862
+ppi,All Features (20),0.0547,0.0283
+ppi,Selected (1),0.0938,0.0145
+ppi,Final (5),0.0701,0.0181
+cps,All Features (20),0.0197,0.0068
+cps,Selected (1),0.0249,0.004
+cps,Final (5),0.0211,0.0053
